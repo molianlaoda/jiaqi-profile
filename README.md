@@ -15,6 +15,8 @@ In this project, I implement animation to show different aspect of a dataset, in
 
 The page link is [this](https://molianlaoda.github.io/03-Animation/)
 
+More detail information about the project is [this](https://github.com/molianlaoda/03-Animation)
+
 ## Data visualizaiton experiment
 
 As human being, our cabability of recive information though our eyes is different based on the shape of the visual element. In data Visualization area, people's ability of reciving values from bar chart is better than pie chart. Because we are more comfortable to compare length than angle or area. 
@@ -22,5 +24,7 @@ As human being, our cabability of recive information though our eyes is differen
 In this experiment, with a partener, we recreate the classical experiment using d3.js. 
 
 The page Link is [this](https://1nfo.github.io/04-Experiment/)
+
+More detail information about the project is [this](https://github.com/1nfo/04-Experiment)
 
 ## Working on Data visualization final project
