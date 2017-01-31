@@ -35,4 +35,10 @@ The page Link is [this](https://molianlaoda.github.io/05-MapsAndViews/)
 
 More detail information about the project is [this](https://github.com/molianlaoda/05-MapsAndViews)
 
-## Working on Data visualization final project
+##Data visualization For 2017 Election
+The most important even of USA in 2016 is the president campaign relative to Hillary Clinton and Donald Trump. Before the due time for the election, no one knows the exact result, since the process was so dramatic. so we want to use the data of night on November 18th from Twitter to visualization the aptitude of the social media about the two president candidates, in order to give people a better sense of the current situation.
+
+The page link is [Project Webpage](https://leonxiaoyuan.github.io/VisualFinal/)
+
+We also build a video for demonstrate our project. [Video introduction](https://www.youtube.com/watch?v=3B4BL-HMTdo&feature=youtu.be)
+
